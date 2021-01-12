@@ -25,6 +25,11 @@
         "icons": [{ "src": "/assets/images/logo.png", "sizes": "128x128" }]
     }
   ],
+  "icons": [{
+    "src": "assets/images/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  } ],
   "background_color": "silver",
   "theme_color": "#3949AB",
   "display": "standalone",
