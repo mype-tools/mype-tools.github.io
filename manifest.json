@@ -1,0 +1,32 @@
+{
+  "short_name": "MYPE",
+  "name": "MYPE",
+  "start_url": "/index.html",
+  "shortcuts": [
+    {
+      "name": "Kontakt",
+        "short_name": "Kontakt",
+        "description": "Kontaktiere uns!",
+        "url": "/kontakt.html",
+        "icons": [{ "src": "/assets/images/logo.png", "sizes": "128x128" }]
+    }
+    {
+      "name": "MYPE v1",
+        "short_name": "MYPE v1",
+        "description": "Erstelle einen Raum!",
+        "url": "/page3.html",
+        "icons": [{ "src": "/assets/images/logo.png", "sizes": "128x128" }]
+    }
+    {
+      "name": "MYPE v2",
+        "short_name": "MYPE v2",
+        "description": "Trete einen Raum bei!",
+        "url": "/big_call.html",
+        "icons": [{ "src": "/assets/images/logo.png", "sizes": "128x128" }]
+    }
+  ],
+  "background_color": "silver",
+  "theme_color": "#3949AB",
+  "display": "standalone",
+  "gcm_sender_id": "103953800507"
+}
